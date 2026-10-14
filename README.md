@@ -1,4 +1,4 @@
-# Project Title
+# @richardmcquiston01/social-platforms
 
 - Author: [Richard McQuiston](mailto:richard.mcquiston@gmail.com)
 - Website: https://richardmcquiston.com/
@@ -8,6 +8,8 @@
 | [Overview](#overview) | [Getting Started](#getting-started) | [Buy Me a Coffee](#buy-me-a-coffee) | [License](#license) | [Copyright](#copyright) |
 
 ## Overview
+
+Framework agnostic TypeScript based package for interacting with various social networking sites.  Sites include Facebook, Instagram, Threads, Pinterest, and more.
 
 [Back to Top](#table-of-contents)
 
