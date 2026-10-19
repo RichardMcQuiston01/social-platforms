@@ -23,6 +23,10 @@
   "bugs": {
     "url": "https://github.com/RichardMcQuiston01/social-platforms/issues"
   },
+  "funding": {
+    "type": "individual",
+    "url": "https://donate.stripe.com/00w5kD3Gj1Xo9v7gVOcs800"
+  },
   "type": "module",
   "sideEffects": false,
   "main": "./dist/index.cjs",
