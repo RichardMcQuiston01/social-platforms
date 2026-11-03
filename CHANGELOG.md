@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.1.2
+
+### Patch Changes
+
+- Switch the donate link, QR code and `funding` URL in `package.json` from Stripe to PayPal, and make the README donate QR image 180 px wide. No code changes.
+
 ## 0.1.1
 
 ### Patch Changes
