@@ -1,6 +1,6 @@
 {
   "name": "@richardmcquiston01/social-platforms",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Post your own images to your own Facebook Page, Instagram, Threads and Pinterest from TypeScript: OAuth logins with token refresh, thin API clients and one publisher interface. Functions return Results instead of throwing; the core is runtime-neutral, with a ./node subpath for the local OAuth redirect listener.",
   "keywords": [
     "social",
@@ -25,7 +25,7 @@
   },
   "funding": {
     "type": "individual",
-    "url": "https://donate.stripe.com/00w5kD3Gj1Xo9v7gVOcs800"
+    "url": "https://ko-fi.com/P1V529Z7ZP"
   },
   "type": "module",
   "sideEffects": false,
